@@ -1,0 +1,14 @@
+Learning git basics:
+
+push
+pull
+merge
+branch
+commit
+rebase
+cherry pick
+stash
+remote
+log
+show-ref
+diff
