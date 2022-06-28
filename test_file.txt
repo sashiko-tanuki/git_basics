@@ -12,3 +12,6 @@ remote
 log
 show-ref
 diff
+
+
+Good list reviewing them
